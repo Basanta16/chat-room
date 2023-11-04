@@ -27,11 +27,6 @@
 			<version>2.3.3</version>
 		</dependency>
 		<dependency>
-			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok</artifactId>
-			<optional>true</optional>
-		</dependency>
-		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>sockjs-client</artifactId>
 			<version>1.0.2</version>
@@ -43,7 +38,12 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
-			<version>3.3.7</version>
+			<version>5.0.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.webjars</groupId>
